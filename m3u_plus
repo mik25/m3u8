@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,█▀▄▀▄▀SPORT ▀▄▀▄▀█ - █▀▄▀▄▀SPORT ▀▄▀▄▀█
 http://client.nodomain.vip:80/live.ts?channelId=1120&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195&r=1
-#EXTINF:-1,NOVA TV SPORT TEST - NOVA TV SPORT TEST
+#EXTINF,NOVA TV SPORT TEST - NOVA TV SPORT TEST
 http://client.nodomain.vip:80/live.ts?channelId=1780&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
 #EXTINF:-1,PLANET SPORT 1 HD - PLANET SPORT 1 HD
 http://client.nodomain.vip:80/live.ts?channelId=1335&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
