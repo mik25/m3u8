@@ -3,7 +3,161 @@ http://client.nodomain.vip:80/live.ts?channelId=1351&deviceUser=ZeljkoCrosat&dev
 http://client.nodomain.vip:80/live.ts?channelId=1120&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195&r=1
 http://client.nodomain.vip:80/live.ts?channelId=1780&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
 http://client.nodomain.vip:80/live.ts?channelId=1335&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+http://client.nodomain#EXTM3U
+#EXTINF:-1,█▀▄▀▄▀SPORT ▀▄▀▄▀█ - █▀▄▀▄▀SPORT ▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1120&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195&r=1
+#EXTINF:-1,NOVA TV SPORT TEST - NOVA TV SPORT TEST
+http://client.nodomain.vip:80/live.ts?channelId=1780&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,PLANET SPORT 1 HD - PLANET SPORT 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1335&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,PLANET SPORT 2 HD - PLANET SPORT 2 HD
 http://client.nodomain.vip:80/live.ts?channelId=1341&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,PLANET SPORT 3 HD - PLANET SPORT 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=1351&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,PLANET SPORT 4 HD - PLANET SPORT 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=1387&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,PLANET SPORT 5 HD - PLANET SPORT 5 HD
+http://client.nodomain.vip:80/live.ts?channelId=1388&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,MOJA TV PREMIJER LIGA BH - MOJA TV PREMIJER LIGA BH
+http://client.nodomain.vip:80/live.ts?channelId=1675&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 1 HD AR - BEIN SPORTS 1 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1613&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 2 HD AR - BEIN SPORTS 2 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1614&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 3 HD AR - BEIN SPORTS 3 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1615&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 4 HD AR - BEIN SPORTS 4 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1616&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 5 HD AR - BEIN SPORTS 5 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1617&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 6 HD AR - BEIN SPORTS 6 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1618&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 7 HD AR - BEIN SPORTS 7 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1619&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 8 HD AR - BEIN SPORTS 8 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1620&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 9 HD AR - BEIN SPORTS 9 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1621&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 10 HD AR - BEIN SPORTS 10 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1622&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 11 HD AR - BEIN SPORTS 11 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1623&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 12 HD AR - BEIN SPORTS 12 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1624&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 13 HD AR - BEIN SPORTS 13 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1625&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 14 HD AR - BEIN SPORTS 14 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1626&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 15 HD AR - BEIN SPORTS 15 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1627&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 16 HD AR - BEIN SPORTS 16 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1628&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 1 HD FR - BEIN SPORTS 1 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1676&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 2 HD FR - BEIN SPORTS 2 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1677&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 3 HD FR - BEIN SPORTS 3 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1678&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 4 HD FR - BEIN SPORTS 4 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1679&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 1 HD TR - BEIN SPORTS 1 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1680&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 2 HD TR - BEIN SPORTS 2 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1681&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 3 HD TR - BEIN SPORTS 3 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1682&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BEIN SPORTS 4 HD TR - BEIN SPORTS 4 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1683&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,CANAL+ SPORT FR - CANAL+ SPORT FR
+http://client.nodomain.vip:80/live.ts?channelId=1684&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,NBA TV HD - NBA TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1685&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,ORF SPORT - ORF SPORT
+http://client.nodomain.vip:80/live.ts?channelId=1742&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SKY BUNDESLIGA 4 DE - SKY BUNDESLIGA 4 DE
+http://client.nodomain.vip:80/live.ts?channelId=582&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SKY BUNDESLIGA 5 DE - SKY BUNDESLIGA 5 DE
+http://client.nodomain.vip:80/live.ts?channelId=583&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,AUTO MOTOR SPORT DE - AUTO MOTOR SPORT DE
+http://client.nodomain.vip:80/live.ts?channelId=1690&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BT SPORT 3 - BT SPORT 3
+http://client.nodomain.vip:80/live.ts?channelId=1696&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,EIR SPORT 1 - EIR SPORT 1
+http://client.nodomain.vip:80/live.ts?channelId=1698&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,EIR SPORT 2 - EIR SPORT 2
+http://client.nodomain.vip:80/live.ts?channelId=1699&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,ELEVEN SPORT 1 PL - ELEVEN SPORT 1 PL
+http://client.nodomain.vip:80/live.ts?channelId=1700&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,ELEVEN SPORT 2 PL - ELEVEN SPORT 2 PL
+http://client.nodomain.vip:80/live.ts?channelId=1701&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,ESPN US - ESPN US
+http://client.nodomain.vip:80/live.ts?channelId=1703&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,LIVERPOOL FC TV UK - LIVERPOOL FC TV UK
+http://client.nodomain.vip:80/live.ts?channelId=1704&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SKY SPORT ARENA UK - SKY SPORT ARENA UK
+http://client.nodomain.vip:80/live.ts?channelId=1707&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SKY SPORT FOOTBALL UK - SKY SPORT FOOTBALL UK
+http://client.nodomain.vip:80/live.ts?channelId=1708&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SKY SPORT GOLF - SKY SPORT GOLF
+http://client.nodomain.vip:80/live.ts?channelId=1709&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SKY SPORT MAIN EVENT UK - SKY SPORT MAIN EVENT UK
+http://client.nodomain.vip:80/live.ts?channelId=1710&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SKY SPORT PREMIER LEAGUE UK - SKY SPORT PREMIER LEAGUE UK
+http://client.nodomain.vip:80/live.ts?channelId=1711&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SKY MOTO GP HD IT - SKY MOTO GP HD IT
+http://client.nodomain.vip:80/live.ts?channelId=1753&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SKY SPORT AUSTRIA - SKY SPORT AUSTRIA
+http://client.nodomain.vip:80/live.ts?channelId=1720&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,C MORE FOTBALL SE - C MORE FOTBALL SE
+http://client.nodomain.vip:80/live.ts?channelId=1725&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,C MORE GOLF SE - C MORE GOLF SE
+http://client.nodomain.vip:80/live.ts?channelId=1726&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,C MORE HOCKEY SE - C MORE HOCKEY SE
+http://client.nodomain.vip:80/live.ts?channelId=1727&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,C MORE SPORT SE - C MORE SPORT SE
+http://client.nodomain.vip:80/live.ts?channelId=1728&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,TV3 SPORT SE - TV3 SPORT SE
+http://client.nodomain.vip:80/live.ts?channelId=1731&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,VIASAT FOTBOLL SE - VIASAT FOTBOLL SE
+http://client.nodomain.vip:80/live.ts?channelId=1732&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,VIASAT GOLF SE - VIASAT GOLF SE
+http://client.nodomain.vip:80/live.ts?channelId=1733&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,VIASAT HOCKEY SE - VIASAT HOCKEY SE
+http://client.nodomain.vip:80/live.ts?channelId=1734&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,VIASAT MOTOR SE - VIASAT MOTOR SE
+http://client.nodomain.vip:80/live.ts?channelId=1735&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,VIASAT SPORT SE - VIASAT SPORT SE
+http://client.nodomain.vip:80/live.ts?channelId=1736&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,VIASAT SPORT PREMIUM SE - VIASAT SPORT PREMIUM SE
+http://client.nodomain.vip:80/live.ts?channelId=1737&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SUPER SPORT 1 ALB - SUPER SPORT 1 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1738&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SUPER SPORT 2 ALB - SUPER SPORT 2 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1739&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SUPER SPORT 3 ALB - SUPER SPORT 3 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1740&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,SUPER SPORT 4 ALB - SUPER SPORT 4 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1741&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,█▀▄▀▄▀UK & USA▀▄▀▄▀█ - █▀▄▀▄▀UK & USA▀▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1122&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195&r=1
+#EXTINF:-1,█▀▄▀▄▀XXX▄▀▄▀█ - █▀▄▀▄▀XXX▄▀▄▀█
+http://client.nodomain.vip:80/live.ts?channelId=1125&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195&r=1
+#EXTINF:-1,XXX 1 - XXX 1
+http://client.nodomain.vip:80/live.ts?channelId=41&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,XXX 2 - XXX 2
+http://client.nodomain.vip:80/live.ts?channelId=164&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,XXX 4 - XXX 4
+http://client.nodomain.vip:80/live.ts?channelId=1514&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,XXX 5 - XXX 5
+http://client.nodomain.vip:80/live.ts?channelId=1564&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,XXX 6 - XXX 6
+http://client.nodomain.vip:80/live.ts?channelId=1565&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,XXX 7 - XXX 7
+http://client.nodomain.vip:80/live.ts?channelId=1566&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,XXX 8 - XXX 8
+http://client.nodomain.vip:80/live.ts?channelId=1567&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
+#EXTINF:-1,BALKAN EROTIC - BALKAN EROTIC
+http://client.nodomain.vip:80/live.ts?channelId=1474&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195.vip:80/live.ts?channelId=1341&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
 http://client.nodomain.vip:80/live.ts?channelId=1351&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
 http://client.nodomain.vip:80/live.ts?channelId=1387&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
 http://client.nodomain.vip:80/live.ts?channelId=1388&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
