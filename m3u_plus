@@ -1,41 +1,4 @@
 #EXTM3U
-#EXTINF:-1,█▀▄▀▄▀SPORT ▀▄▀▄▀█ - █▀▄▀▄▀SPORT ▀▄▀▄▀█
-http://client.nodomain.vip:80/live.ts?channelId=1120&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195&r=1
-#EXTINF,NOVA TV SPORT TEST - NOVA TV SPORT TEST
-http://client.nodomain.vip:80/live.ts?channelId=1780&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,PLANET SPORT 1 HD - PLANET SPORT 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1335&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,PLANET SPORT 2 HD - PLANET SPORT 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=1341&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,PLANET SPORT 3 HD - PLANET SPORT 3 HD
-http://client.nodomain.vip:80/live.ts?channelId=1351&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,PLANET SPORT 4 HD - PLANET SPORT 4 HD
-http://client.nodomain.vip:80/live.ts?channelId=1387&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,PLANET SPORT 5 HD - PLANET SPORT 5 HD
-http://client.nodomain.vip:80/live.ts?channelId=1388&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,MOJA TV PREMIJER LIGA BH - MOJA TV PREMIJER LIGA BH
-http://client.nodomain.vip:80/live.ts?channelId=1675&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1IN SPORTS 1 HD AR - BEIN SPORTS 1 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1613&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 2 HD AR - BEIN SPORTS 2 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1614&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 3 HD AR - BEIN SPORTS 3 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1615&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 4 HD AR - BEIN SPORTS 4 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1616&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 5 HD AR - BEIN SPORTS 5 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1617&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 6 HD AR - BEIN SPORTS 6 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1618&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 7 HD AR - BEIN SPORTS 7 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1619&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 8 HD AR - BEIN SPORTS 8 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1620&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 9 HD AR - BEIN SPORTS 9 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1621&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 10 HD AR - BEIN SPORTS 10 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1622&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195
-#EXTINF:-1,BEIN SPORTS 11 HD AR - BEIN SPOR#EXTM3U
 #EXTINF:-1 tvg-id="█▀▄▀▄▀FILM & SERIJE ▀▄▀▄▀█" tvg-link="" tvg-name="█▀▄▀▄▀FILM & SERIJE ▀▄▀▄▀█" tvg-logo="" group-title="FILM & SERIJE",█▀▄▀▄▀FILM & SERIJE ▀▄▀▄▀█ - █▀▄▀▄▀FILM & SERIJE ▀▄▀▄▀█
 http://client.nodomain.vip:80/live.ts?channelId=1117&deviceUser=ZeljkoCrosat&devicePass=BJ1wmzRUBO4ppK04jMqX&uid=38195&r=1
 #EXTINF:-1 tvg-id="ANDRIJA I ANDJELKA 24H" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="ANDRIJA I ANDJELKA 24H" tvg-logo="" group-title="FILM & SERIJE",ANDRIJA I ANDJELKA 24H - ANDRIJA I ANDJELKA 24H
